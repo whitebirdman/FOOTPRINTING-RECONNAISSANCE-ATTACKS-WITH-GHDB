@@ -209,3 +209,13 @@ Sanitized screenshots of Mathematics PDF & Directory Listings interfaces to demo
 **Tools/Concepts:**
 
 GHDB • Google Search Operators • OSINT • Reconnaissance • Information Gathering • Web Security • Ethical Hacking
+
+
+👤 **Author**
+**Ayisire I. Oghenechovwe**
+
+Cybersecurity Intern
+
+LinkedIn: https://www.linkedin.com/in/israel-chovwe-ayisire
+
+-End-
