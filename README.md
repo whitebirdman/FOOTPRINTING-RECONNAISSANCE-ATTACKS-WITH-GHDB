@@ -1,5 +1,7 @@
 # 🔎 GHDB & Google Search Operators — Cybersecurity Lab
 
+![googledb output](googledb.png)
+
 ## Overview
 
 As part of my cybersecurity and ethical hacking training with **Networkwalks**, I completed a practical exercise focused on the **Google Hacking Database (GHDB)** and advanced Google search operators.
@@ -196,22 +198,14 @@ From a defensive perspective, the same techniques can help organizations identif
 
 ## 📷 Evidence
 
-Sanitized screenshots are included in this repository to demonstrate the practical work while protecting live third-party information.
+Sanitized screenshots of Webcam/Web interfaces to demonstrate the practical work while protecting live third-party information
 
-![whois output](whois.png)
+![expliotmathematic output](expliot2.png)
 
-![whatweb output](whatweb.png)
+Sanitized screenshots of Mathematics PDF & Directory Listings interfaces to demonstrate the practical work while protecting live third-party information
 
-![nslookup output](nslookup.png)
-
-![curl output](curl.png)
-
-![wafw00f output](wafw00f.png)
-
-![dnsrecon output](nmap1.png)
-
-![Zenmap scan and topology](nmaptop.png)
-
+![camera output](exploit1.png)
 
 **Tools/Concepts:**
+
 GHDB • Google Search Operators • OSINT • Reconnaissance • Information Gathering • Web Security • Ethical Hacking
