@@ -68,6 +68,8 @@ For this public portfolio, the original live IP addresses, URLs and identifying 
 
 The accompanying screenshots show the search methodology and results while protecting live third-party target information.
 
+![camera output](exploit1.png)
+
 ---
 
 # 2. 📚 Mathematics PDF & Directory Listings
@@ -198,13 +200,9 @@ From a defensive perspective, the same techniques can help organizations identif
 
 ## 📷 Evidence
 
-Sanitized screenshots of Webcam/Web interfaces to demonstrate the practical work while protecting live third-party information
+Sanitized screenshots are included in this repository to demonstrate the practical work while protecting live third-party information.
 
 ![expliotmathematic output](expliot2.png)
-
-Sanitized screenshots of Mathematics PDF & Directory Listings interfaces to demonstrate the practical work while protecting live third-party information
-
-![camera output](exploit1.png)
 
 **Tools/Concepts:**
 
